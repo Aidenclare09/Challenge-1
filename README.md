@@ -1,7 +1,7 @@
 # Challenge-1
 ## Url Link to Website
 
-https://github.com/Aidenclare09/Challenge-1/main
+file:///Users/k9/uoft/challenges/Challenge-1/index.html
 
 ## Description 
 Throughout this project many changes were made to the existing
